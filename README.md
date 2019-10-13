@@ -5,7 +5,7 @@ Create a transfer learning CNN model based on AlexNet to detect malaria through 
 
 1.**Color Constancy** 
 2.**Convolutional Neural Network**  
-3.**AlexNet** **Transfter learning**
+3.**AlexNet(Transfter learning)**
 
 **Requirement:** 
 
@@ -18,7 +18,7 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 ## Project Methodology
 
-![bytefileImage](/image/byteFileImage.PNG)
+![flowchart](/image/flowchart.png)
 
 ## Orginal cell images (parasitized & uninfected)
 
