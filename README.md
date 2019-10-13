@@ -1,11 +1,13 @@
 # Malaria Detection
 Create a transfer learning CNN model based on AlexNet to detect malaria through cell images
 
-**Algorithm**    
+**Techniques used:**    
 
-Techniques used: **Color Constancy** **Convolutional Neural Network**  **AlexNet** **Transfter learning**
+1.**Color Constancy** 
+2.**Convolutional Neural Network**  
+3.**AlexNet** **Transfter learning**
 
-**Requirement** 
+**Requirement:** 
 
 - Matlab 2018b
 
