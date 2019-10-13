@@ -41,11 +41,11 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 ![processedcell2](/image/processedcell2.png)
 
 ## Result
-**Confusion Matrix**
+**Confusion Matrix (w/without transfer learning):**
 ![confusionnotrans](/image/confusionnotrans.png)
 
 ![confusiontrans](/image/confusiontrans.png)
-**ROC**
+**ROC (w/without transfer learning):**
 ![ROCnotrans](/image/ROCnotrans.png)
 
 ![ROCtrans](/image/ROCtrans.png)
