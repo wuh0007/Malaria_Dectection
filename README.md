@@ -24,30 +24,34 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
 ## Orginal cell images (parasitized & uninfected)
 
-![bytefileImage](/image/byteFileImage.PNG)
+![originparasitized](/image/originparasitized.png)
 
-![bytefileImage](/image/byteFileImage.PNG)
+![originuninfected](/image/originuninfected.png)
 
 ## Dataset Distribution
 
-![bytefileImage](/image/byteFileImage.PNG)
+![datadistribution](/image/datadistribution.png)
+
+![finaldatadistribution](/image/finaldatadistribution.png)
 
 ## Image Processing (Color Constancy)
 
-![bytefileImage](/image/byteFileImage.PNG)
+![processedcell1](/image/processedcell1.png)
+
+![processedcell2](/image/processedcell2.png)
 
 ## Result
 **Confusion Matrix**
-![bytefileImage](/image/byteFileImage.PNG)
+![confusionnotrans](/image/confusionnotrans.png)
 
-![bytefileImage](/image/byteFileImage.PNG)
+![confusiontrans](/image/confusiontrans.png)
 **ROC**
-![bytefileImage](/image/byteFileImage.PNG)
+![ROCnotrans](/image/ROCnotrans.png)
 
-![bytefileImage](/image/byteFileImage.PNG)
+![ROCtrans](/image/ROCtrans.png)
 
 **Training Process (w/without transfer learning):**
-![KNN1](/image/KNN1.PNG) 
+![trainingnotrans](/image/trainingnotrans.png) 
 
-![SVM1](/image/SVM1.PNG) 
-![SVM1](/image/SVM1.PNG) 
+![trainingtrans](/image/trainingtrans.png) 
+
