@@ -1,0 +1,2 @@
+Download the original data from U.S. National Library of Medicine, link below: 
+https://ceb.nlm.nih.gov/repositories/malaria-datasets/

@@ -46,3 +46,4 @@ https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 ![KNN1](/image/KNN1.PNG) 
 
 ![SVM1](/image/SVM1.PNG) 
+![SVM1](/image/SVM1.PNG) 
